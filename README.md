@@ -58,6 +58,7 @@ Things you may want to cover:
 
 ## messagesテーブル
 |Column|Type|Options|
+|------|----|-------|
 |text|text|
 |image|string|
 |group_id|referenes|null: false, foreign_key: true|
